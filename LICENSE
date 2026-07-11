@@ -1,0 +1,35 @@
+AI for Real Education — Tool License
+Copyright (c) 2026 Abdul Wahab (AI for Real Education)
+
+This software (Python Mastery OS) is free. You are encouraged to use it,
+learn from it, and share it.
+
+YOU ARE FREE TO:
+  • Use this app to learn Python, for any personal, educational, or
+    classroom purpose, at no cost.
+  • Share it, unmodified, with others — friends, students, colleagues,
+    your whole class — as long as this notice and the creator's
+    attribution stay intact.
+
+YOU MAY NOT:
+  • Sell, resell, or charge money for this software or for access to it.
+  • Remove, hide, or alter the creator's name, branding, or links
+    ("Made by Abdul Wahab · AI for Real Education").
+  • Present this work, or a modified copy of it, as your own.
+
+For commercial use, partnerships, custom versions, or deployment for an
+organization or institution, please get in touch — I'm happy to help:
+  YouTube:  https://www.youtube.com/@AIforRealEducation
+  WhatsApp: https://wa.me/923159319433
+
+THIRD-PARTY COMPONENTS
+This app loads third-party open-source libraries that remain under their own
+respective licenses, including (but not limited to): Pyodide, CodeMirror, and
+the Inter / JetBrains Mono / Space Grotesk fonts. Those licenses govern those
+components; the terms above cover the original Python Mastery OS lessons,
+application code, and design.
+
+NO WARRANTY
+This software is provided "as is", without warranty of any kind, express or
+implied. The author is not liable for any claim, damages, or other liability
+arising from the use of this software.
